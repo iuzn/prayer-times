@@ -11,7 +11,7 @@ import SwiftUI
 struct Prayer_TimesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PrayerTimesView()
         }
     }
 }
